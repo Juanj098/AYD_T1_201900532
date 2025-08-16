@@ -23,6 +23,7 @@
 - **Descripción:** Marca la versión donde la API muestra el nombre y la canción favorita.
 
 ![img_tagv1.0](/img/Captura%20de%20pantalla%202025-08-15%20183752.png)
+
 ### 3. Rama hotfix y corrección
 - **Nombre de la rama:** `hotfix`
 - **Corrección realizada:** Ahora la API muestra el nombre del álbum favorito en vez de la canción.
