@@ -31,10 +31,12 @@
 
 ![api_code](/img/code2.png)
 ![img_branchs](/img/Captura%20de%20pantalla%202025-08-15%20203050.png)
+
 ### 4. Tag de versión final
 - **Tag creado:** `release-2.0`
 - **Descripción:** Marca la versión donde la API muestra el nombre y el álbum favorito.
 
+![tag_2](/img/Captura%20de%20pantalla%202025-08-15%20204126.png)
 ### 5. Eliminación de la rama hotfix
 - **Estado:** Rama `hotfix` eliminada tras la corrección y versionado.
 
