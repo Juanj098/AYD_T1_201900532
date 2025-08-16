@@ -40,5 +40,5 @@
 ### 5. Eliminación de la rama hotfix
 - **Estado:** Rama `hotfix` eliminada tras la corrección y versionado.
 
----
+![eliminacion hotfix](/img/Captura%20de%20pantalla%202025-08-15%20204643.png)
 
