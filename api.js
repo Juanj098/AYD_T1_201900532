@@ -4,7 +4,7 @@ const app = express();
 const PORT = 3000;
 
 app.get('/', (req, res) => {
-  res.send('Labios Rotos - Zoé :: Juan José Gerardi Hernandez - 201900532');
+  res.send('Nadie sabe lo que pasará mañana :: Juan José Gerardi Hernandez - 201900532');
 });
 
 app.listen(PORT, () => {
